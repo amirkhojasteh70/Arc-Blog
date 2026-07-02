@@ -34,3 +34,7 @@ Introducing Arc: The Economic OS for the internet
       Guest Post: The New Era of Agentic Commerce, Highlights from the Arc Hackathon
       Arc x Elliptic: Blockchain analytics and monitoring for compliance-first Arc apps
       Across is live on Arc Testnet: day-one crosschain transfers for builders
+Money's second act runs on Arc
+Arc x Chainlink: Data and cross-chain infrastructure for Arc builders
+Arc x Alchemy: Alchemy Integrates with Arc
+Arc x QuickNode: Arc RPC infrastructure you can actually ship on
