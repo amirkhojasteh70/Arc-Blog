@@ -41,3 +41,4 @@ Arc x QuickNode: Arc RPC infrastructure you can actually ship on
 Arc 🤝 Pyth: Real-time market data for pricing-sensitive apps on Arc
 App Kit FAQs
 Arc x Pulsar: consumer stablecoin money movement on Arc
+Arc Brand Guidelines and Partner Toolkit is live
