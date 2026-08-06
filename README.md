@@ -44,3 +44,4 @@ Arc x Pulsar: consumer stablecoin money movement on Arc
 Arc Brand Guidelines and Partner Toolkit is live
 Arc 🤝 Cycles: Multilateral clearing and settlement on Arc
 Arc x Wirex: card settlement infrastructure on Arc
+Arc Public Mainnet Launches September 16, 2026
