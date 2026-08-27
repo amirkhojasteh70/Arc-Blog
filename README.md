@@ -46,3 +46,4 @@ Arc 🤝 Cycles: Multilateral clearing and settlement on Arc
 Arc x Wirex: card settlement infrastructure on Arc
 Arc Public Mainnet Launches September 16, 2026
 Guest Post: Why We Chose Arc to Rebuild Private Credit’s Infrastructure
+Arc 🤝 Ledger: Hardware-backed wallet support for Arc
