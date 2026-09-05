@@ -48,3 +48,4 @@ Arc Public Mainnet Launches September 16, 2026
 Guest Post: Why We Chose Arc to Rebuild Private Credit’s Infrastructure
 Arc 🤝 Ledger: Hardware-backed wallet support for Arc
 Arc Testnet v0.8.0 hardfork
+Growing the Arc Community: Chapter Updates, Roles, Benefits
