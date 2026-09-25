@@ -15,7 +15,7 @@ New Group: Introducing Agentic Economy in Arc House
 Introducing Arc: The Economic OS for the internet
  Arc x Hibachi: Perpetuals on Arc, With ZK-Verified Settlement
  Arc x Uniswap🦄 Swap and liquidity infrastructure for Arc
-  Arc 🤝 Turnkey: Wallet and signing infrastructure for builders on Arc
+ rc 🤝 Turnkey: Wallet and signing infrastructure for builders on Arc
   Arc Opens Its Code, Its Nodes, and a Formal Path to Break It Before Mainnet
    The Next Internet Economy, Built on Arc with USDC
    Building an Autonomous Wallet Agent
